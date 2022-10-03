@@ -6,7 +6,7 @@
 #include <chrono>
 
 /*
-Naieve Bayes
+Naive Bayes
 */
 using namespace std;
 
